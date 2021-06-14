@@ -13,7 +13,7 @@
   </head>
   <body>
 
-  <form action="search.php" method="get" class="col-md-4 offset-md-4 mt-5 pt-3">
+  <form action="" method="get" class="col-md-4 offset-md-4 mt-5 pt-3">
       <div class="input-group mb-3">
           <input type="text" name="search"  id="search"  class="form-control" placeholder="Search for hotels ......">
           <div class="input-group-append">

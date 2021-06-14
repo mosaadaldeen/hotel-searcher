@@ -1,4 +1,18 @@
-<?php ?>
+<?php 
+$name = $_POST['name'];
+$email= $_POST['email'];
+$subject = $_POST['subject'];
+$body = $_POST['body'];
+$to = "mohammadsd97@gmail.com";
+$txt ="Name = ". $name . "\r\n  Email = " . $email . "\r\n Message =" . $body;
+$headers = "From: noreply@yoursite.com" . "\r\n" .
+"CC: somebodyelse@example.com";
+if($email!=NULL){
+    mail($to,$subject,$txt,$headers);
+}
+?>
+
+
 
 <!DOCTYPE html>
 <html lang="en">
@@ -17,7 +31,7 @@
 
     <div class=" form col-sm-6 col-sm-offset-2 mt-5 text-center mx-auto">
               <h2>Send an Email</h2>
-            <form method="post" action="mail.php"class="text-center form" >
+            <form class="form" method="post" action="" class="text-center form" >
               <input type="hidden" data-form-email="true">
                 <input type="text" class="form-control mb-3" id="name" name="name" required="" placeholder="Name*" data-form-field="Name">
                 <input type="email" class="form-control mb-3" id="email" name="email" required="" placeholder="Email*" data-form-field="Email">
@@ -27,9 +41,8 @@
             </form>
           </div>
 
-	<script src="http://code.jquery.com/jquery-3.3.1.min.js"></script> 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-	<script type="text/javascript"></script>
+	<script src="./main.js"></script>
 
 </body>
 </html>

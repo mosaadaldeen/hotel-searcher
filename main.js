@@ -17,6 +17,10 @@ $(document).ready(function () {
   });
 });
 
+$(".form").submit(function (event) {
+  event.preventDefault();
+});
+
 function sendEmail() {
   var name = $("#name");
   var email = $("#email");
@@ -42,6 +46,9 @@ function sendEmail() {
       success: function (response) {
         $("#myForm")[0].reset();
         $(".sent-notification").text("Message Sent Successfully.");
+
+        if (response.success === "no_errors")
+          location.href = "http://127.0.0.1:8080/thankyou.html";
       },
     });
   }
