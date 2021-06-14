@@ -1,0 +1,742 @@
+[
+  {
+    "code": "F01",
+    "hotel": "Hotel-Restaurant Koogerend",
+    "postCode": "1791 EV",
+    "straat": "Kogerstraat 94",
+    "regio": "Den Burg",
+    "provinsie": "Noord-Holland",
+    "nummer": "0222-313301",
+    "email": "info@hotelkoogerend.nl"
+  },
+  {
+    "code": "F02",
+    "hotel": "Hotel-Restaurant Prinsen",
+    "postCode": "5251 EC",
+    "straat": "Julianastraat 21",
+    "regio": "Vlijmen",
+    "provinsie": "Noord-Brabant",
+    "nummer": "073-5119131",
+    "email": "info@hotelprinsen.nl"
+  },
+  {
+    "code": "F03",
+    "hotel": "Hotel Valkenburg",
+    "postCode": "6301 HM",
+    "straat": "Bosstraat 2-6",
+    "regio": "Valkenburg",
+    "provinsie": "Limburg",
+    "nummer": "043-6012033",
+    "email": "info@fletcherhotelvalkenburg.nl"
+  },
+  {
+    "code": "F04",
+    "hotel": "Hotel-Restaurant De Burghoeve",
+    "postCode": "6301 HL",
+    "straat": "Broekhem 134",
+    "regio": "Valkenburg",
+    "provinsie": "Limburg",
+    "nummer": "043-6012962",
+    "email": "info@hoteldeburghoeve.nl"
+  },
+  {
+    "code": "F05",
+    "hotel": "Hotel-Restaurant Du Commerce",
+    "postCode": "4331 HV",
+    "straat": "Loskade 1",
+    "regio": "Middelburg",
+    "provinsie": "Zeeland",
+    "nummer": "0118-636051",
+    "email": "info@hotelducommerce.nl"
+  },
+  {
+    "code": "F06",
+    "hotel": "Zuiderduin Beachhotel",
+    "postCode": "4361 SM",
+    "straat": "De Bucksweg 2",
+    "regio": "Westkapelle",
+    "provinsie": "Zeeland",
+    "nummer": "0118-561810",
+    "email": "info@zuiderduinbeachhotel.nl"
+  },
+  {
+    "code": "F06A",
+    "hotel": "Beachclub Zuiderduin",
+    "postCode": "4361 SM",
+    "straat": "De Bucksweg 2",
+    "regio": "Westkapelle",
+    "provinsie": "Zeeland",
+    "nummer": "0118-561810",
+    "email": "info@zuiderduinbeachhotel.nl"
+  },
+  {
+    "code": "F09",
+    "hotel": "Hotel-Restaurant De Zon",
+    "postCode": "8431 ET",
+    "straat": "Stationsstraat 1",
+    "regio": "Oosterwolde",
+    "provinsie": "Friesland",
+    "nummer": "0516-512430",
+    "email": "info@fletcherhoteldezon.nl"
+  },
+  {
+    "code": "F11",
+    "hotel": "Hotel-Restaurant Hellendoorn",
+    "postCode": "7447 HB",
+    "straat": "Johanna van Burenstraat 9",
+    "regio": "Hellendoorn",
+    "provinsie": "Overijssel",
+    "nummer": "0548-655425",
+    "email": "info@hotelhellendoorn.nl"
+  },
+  {
+    "code": "F12",
+    "hotel": "Hotel-Restaurant Duinoord",
+    "postCode": "2242 PJ",
+    "straat": "Wassenaarseslag 26",
+    "regio": "Wassenaar",
+    "provinsie": "Zuid-Holland",
+    "nummer": "070-5119332",
+    "email": "info@hotelduinoord.nl"
+  },
+  {
+    "code": "F13",
+    "hotel": "Hotel-Restaurant De Mallejan",
+    "postCode": "8076 PD",
+    "straat": "Nunspeterweg 70",
+    "regio": "Vierhouten",
+    "provinsie": "Gelderland",
+    "nummer": "0577-411241",
+    "email": "info@hoteldemallejan.nl"
+  },
+  {
+    "code": "F14",
+    "hotel": "Hotel-Restaurant Bon Repos",
+    "postCode": "6255 AT",
+    "straat": "Bovenstraat 17",
+    "regio": "Noorbeek",
+    "provinsie": "Limburg",
+    "nummer": "043-4571338",
+    "email": "info@hotelbonrepos.nl"
+  },
+  {
+    "code": "F15",
+    "hotel": "Hotel-Restaurant Paasberg",
+    "postCode": "7241 JR",
+    "straat": "Paasberg 2",
+    "regio": "Lochem",
+    "provinsie": "Gelderland",
+    "nummer": "0573-254751",
+    "email": "info@hotelpaasberg.nl"
+  },
+  {
+    "code": "F16",
+    "hotel": "Hotel-Restaurant Zeeduin",
+    "postCode": "1949 EC",
+    "straat": "Relweg 59",
+    "regio": "Wijk aan Zee",
+    "provinsie": "provinsie",
+    "nummer": "0251-376161",
+    "email": "info@hotelzeeduin.nl"
+  },
+  {
+    "code": "F17",
+    "hotel": "Hotel-Restaurant De Gelderse Poort",
+    "postCode": "6576 AS",
+    "straat": "Kon. Julianalaan 32",
+    "regio": "Ooij",
+    "provinsie": "Gelderland",
+    "nummer": "024-6638213",
+    "email": "info@hoteldegeldersepoort.nl"
+  },
+  {
+    "code": "F18",
+    "hotel": "Hotel-Resort Amelander Kaap",
+    "postCode": "9161 CZ",
+    "straat": "Oosterhiemweg 1",
+    "regio": "Hollum",
+    "provinsie": "Friesland",
+    "nummer": "0519-554646",
+    "email": "info@hotelamelanderkaap.nl"
+  },
+  {
+    "code": "F19",
+    "hotel": "Hotel-Restaurant Auberge De Kieviet",
+    "postCode": "2243 CX",
+    "straat": "Stoeplaan 27",
+    "regio": "Wassenaar",
+    "provinsie": "Zuid-Holland",
+    "nummer": "070-5119232",
+    "email": "info@hoteldekieviet.nl"
+  },
+  {
+    "code": "F20",
+    "hotel": "Badhotel Noordwijk",
+    "postCode": "2202 KD",
+    "straat": "Julianastraat 32",
+    "regio": "Noordwijk aan Zee",
+    "provinsie": "Zuid-Holland",
+    "nummer": "071-3620340",
+    "email": "info@badhotelnoordwijk.nl"
+  },
+  {
+    "code": "F21",
+    "hotel": "Hotel-Restaurant De Grote Zwaan",
+    "postCode": "7587 ND",
+    "straat": "Bentheimerstraat 21",
+    "regio": "De Lutte",
+    "provinsie": "Overijssel",
+    "nummer": "0541-551215",
+    "email": "info@hoteldegrotezwaan.nl"
+  },
+  {
+    "code": "F22",
+    "hotel": "Badhotel Egmond aan Zee",
+    "postCode": "1931 EW",
+    "straat": "Parallelweg 2",
+    "regio": "Egmond aan Zee",
+    "provinsie": "provinsie",
+    "nummer": "072-506 1368",
+    "email": "info@badhotelegmondaanzee.nl"
+  },
+  {
+    "code": "F23",
+    "hotel": "Hotel-Restaurant La Ville Blanche",
+    "postCode": "6017 AR",
+    "straat": "Hoogstraat 2",
+    "regio": "Thorn",
+    "provinsie": "Limburg",
+    "nummer": "0475-562341",
+    "email": "info@hotellavilleblanche.nl"
+  },
+  {
+    "code": "F24",
+    "hotel": "Hotel-Paleis Stadhouderlijk Hof",
+    "postCode": "8911 HJ",
+    "straat": "Hofplein 29",
+    "regio": "Leeuwarden",
+    "provinsie": "Friesland",
+    "nummer": "058-2162180",
+    "email": "info@hotelstadhouderlijkhof.nl"
+  },
+  {
+    "code": "F25",
+    "hotel": "Hotel-Restaurant Erica",
+    "postCode": "6571 BA",
+    "straat": "Molenbosweg 17",
+    "regio": "Berg en Dal",
+    "provinsie": "Gelderland",
+    "nummer": "024-6843514",
+    "email": "info@hotelerica.nl"
+  },
+  {
+    "code": "F26",
+    "hotel": "Hotel-Restaurant De Geulvallei",
+    "postCode": "6301 KC",
+    "straat": "Onderstestraat 66",
+    "regio": "Houthem St. Gerlach",
+    "provinsie": "Limburg",
+    "nummer": "043-6043680",
+    "email": "info@hoteldegeulvallei.nl"
+  },
+  {
+    "code": "F27",
+    "hotel": "Hotel-Restaurant Rooland",
+    "postCode": "5944 EZ",
+    "straat": "Roobeekweg 1",
+    "regio": "Arcen",
+    "provinsie": "Limburg",
+    "nummer": "077-4736666",
+    "email": "info@hotelrooland.nl"
+  },
+  {
+    "code": "F29",
+    "hotel": "Hotel-Restaurant Heidehof",
+    "postCode": "8445 SR",
+    "straat": "Golflaan 1",
+    "regio": "Heerenveen",
+    "provinsie": "Friesland",
+    "nummer": "0513-630200",
+    "email": "info@hotelheidehof.nl"
+  },
+  {
+    "code": "F30",
+    "hotel": "Hotel-Restaurant Langewold",
+    "postCode": "9301 NR",
+    "straat": "Ceintuurbaan Noord 1",
+    "regio": "Roden",
+    "provinsie": "Drenthe",
+    "nummer": "050- 5013850",
+    "email": "info@hotellangewold.nl"
+  },
+  {
+    "code": "F31",
+    "hotel": "Hotel-Restaurant Carlton",
+    "postCode": "2671SB",
+    "straat": "Tiendweg 20",
+    "regio": "Naaldwijk",
+    "provinsie": "Zuid-Holland",
+    "nummer": "0174-272625",
+    "email": "info@hotelcarlton.nl"
+  },
+  {
+    "code": "F32",
+    "hotel": "Hotel-Restaurant De Zalm",
+    "postCode": "3231 BJ",
+    "straat": "Voorstraat 6-8",
+    "regio": "Brielle",
+    "provinsie": "Zuid-Holland",
+    "nummer": "0181-413388",
+    "email": "info@hoteldezalm.nl"
+  },
+  {
+    "code": "F33",
+    "hotel": "Hotel-Restaurant Het Veluwse Bos",
+    "postCode": "7361 CN",
+    "straat": "Arnhemseweg 520",
+    "regio": "Beekbergen",
+    "provinsie": "Gelderland",
+    "nummer": "055-5061393",
+    "email": "info@hotelhetveluwsebos.nl"
+  },
+  {
+    "code": "F34",
+    "hotel": "Duinhotel Burgh Haamstede",
+    "postCode": "4328 JC",
+    "straat": "Torenweg 1",
+    "regio": "Burgh Haamstede",
+    "provinsie": "Zeeland",
+    "nummer": "0111-887766",
+    "email": "info@duinhotelburghhaamstede.nl"
+  },
+  {
+    "code": "F35",
+    "hotel": "Hotel-Restaurant Boschoord",
+    "postCode": "5062 SB",
+    "straat": "Gemullehoekenweg 143",
+    "regio": "Oisterwijk",
+    "provinsie": "Noord-Brabant",
+    "nummer": "013-5231600",
+    "email": "info@hotelboschoord.nl"
+  },
+  {
+    "code": "F36",
+    "hotel": "Hotel-Restaurant Nautisch Kwartier",
+    "postCode": "1271 GL",
+    "straat": "Mastspoor 1",
+    "regio": "Huizen",
+    "provinsie": "provinsie",
+    "nummer": "035-5230010",
+    "email": "info@hotelnautischkwartier.nl"
+  },
+  {
+    "code": "F37",
+    "hotel": "Hotel-Landgoed Huis Te Eerbeek",
+    "postCode": "6961 LX",
+    "straat": "Prof.Weberlaan 1",
+    "regio": "Eerbeek",
+    "provinsie": "Gelderland",
+    "nummer": "031-3659135",
+    "email": "info@fletcherhoteleerbeek.nl"
+  },
+  {
+    "code": "F38",
+    "hotel": "Badhotel Callantsoog",
+    "postCode": "1759 NB",
+    "straat": "Abbestederweg 26",
+    "regio": "Callantsoog",
+    "provinsie": "provinsie",
+    "nummer": "0224-582222",
+    "email": "info@badhotelcallantsoog.nl"
+  },
+  {
+    "code": "F39",
+    "hotel": "Hotel-Restaurant De Witte Raaf",
+    "postCode": "2204 AT",
+    "straat": "Duinweg 117",
+    "regio": "Noordwijk",
+    "provinsie": "Zuid-Holland",
+    "nummer": "0252-242900",
+    "email": "info@fletcherhoteldewitteraaf.nl"
+  },
+  {
+    "code": "F40",
+    "hotel": "Familiehotel Paterswolde",
+    "postCode": "9765 TA",
+    "straat": "Groningerweg 19",
+    "regio": "Paterswolde",
+    "provinsie": "Groningen",
+    "nummer": "050-3095400",
+    "email": "info@familiehotelpaterswolde.nl"
+  },
+  {
+    "code": "F41",
+    "hotel": "Hotel-Restaurant De Dikke Van Dale",
+    "postCode": "4524 JE",
+    "straat": "St. Annastraat 46",
+    "regio": "Sluis",
+    "provinsie": "Zeeland",
+    "nummer": "0117-456010",
+    "email": "info@dikkevandalesluis.nl"
+  },
+  {
+    "code": "F42",
+    "hotel": "Hotel-Restaurant Kasteel Erenstein",
+    "postCode": "6468 PA",
+    "straat": "Kerkradersteenweg 4",
+    "regio": "Kerkrade",
+    "provinsie": "Limburg",
+    "nummer": "045- 5461333",
+    "email": "info@kasteelerenstein.nl"
+  },
+  {
+    "code": "F43",
+    "hotel": "Hotel-Restaurant De Scheperskamp",
+    "postCode": "7241 JR",
+    "straat": "Paasberg 3",
+    "regio": "Lochem",
+    "provinsie": "Gelderland",
+    "nummer": "0573-254051",
+    "email": "info@hotelscheperskamp.nl"
+  },
+  {
+    "code": "F44",
+    "hotel": "Hotel-Restaurant Dinkeloord",
+    "postCode": "7588 PW",
+    "straat": "Denekamperstraat 48",
+    "regio": "Beuningen",
+    "provinsie": "Overijssel",
+    "nummer": "0541-351387",
+    "email": "info@fletcherhoteldinkeloord.nl"
+  },
+  {
+    "code": "F45",
+    "hotel": "Hotel-Restaurant Veldenbos",
+    "postCode": "8071 BR",
+    "straat": "Spoorlaan 42",
+    "regio": "Nunspeet",
+    "provinsie": "Gelderland",
+    "nummer": "0341-252334",
+    "email": "info@hotelveldenbos.nl"
+  },
+  {
+    "code": "F46",
+    "hotel": "Hotel-Restaurant De Hunzebergen",
+    "postCode": "7875 TB",
+    "straat": "Valtherweg 36",
+    "regio": "Exloo",
+    "provinsie": "Drenthe",
+    "nummer": "0591-549131",
+    "email": "info@hoteldehunzebergen.nl"
+  },
+  {
+    "code": "F47",
+    "hotel": "Landhotel Bosrijk Roermond",
+    "postCode": "6042 KN",
+    "straat": "Maalbroek 102",
+    "regio": "Roermond",
+    "provinsie": "Limburg",
+    "nummer": "0475-348899",
+    "email": "info@hotelbosrijkroermond.nl"
+  },
+  {
+    "code": "F48",
+    "hotel": "Hotel-Restaurant Heiloo",
+    "postCode": "1851 PD",
+    "straat": "Kennemerstraatweg 425",
+    "regio": "Heiloo",
+    "provinsie": "provinsie",
+    "nummer": "072-5052244",
+    "email": "info@fletcherhotelheiloo.nl"
+  },
+  {
+    "code": "F49",
+    "hotel": "Hotel-Restaurant Marijke",
+    "postCode": "1861KT",
+    "straat": "Dorpsstraat 23-25",
+    "regio": "Bergen",
+    "provinsie": "provinsie",
+    "nummer": "072-5812381",
+    "email": "info@hotelmarijke.nl"
+  },
+  {
+    "code": "F50",
+    "hotel": "Hotel-Restaurant De Zeegser Duinen",
+    "postCode": "9483 TL",
+    "straat": "Schipborgerweg 8",
+    "regio": "Zeegse",
+    "provinsie": "Drenthe",
+    "nummer": "0592-530099",
+    "email": "info@hoteldezeegserduinen.nl"
+  },
+  {
+    "code": "F51",
+    "hotel": "Hotel-Restaurant De Kempen",
+    "postCode": "5541 NZ",
+    "straat": "Turnhoutseweg 48",
+    "regio": "Reusel",
+    "provinsie": "Noord-Brabant",
+    "nummer": "0497-642720",
+    "email": "info@hoteldekempen.nl"
+  },
+  {
+    "code": "F52",
+    "hotel": "Hotel-Restaurant De Witte Brug",
+    "postCode": "2941 BP",
+    "straat": "Kerkweg 138",
+    "regio": "Lekkerkerk",
+    "provinsie": "Zuid-Holland",
+    "nummer": "0180-663344",
+    "email": "info@hoteldewittebrug.nl"
+  },
+  {
+    "code": "F53",
+    "hotel": "Hotel-Restaurant Sallandse Heuvelrug",
+    "postCode": "7461PA",
+    "straat": "Burgemeester Knottenbeltlaan 77",
+    "regio": "Rijssen",
+    "provinsie": "Overijssel",
+    "nummer": "0548-516900",
+    "email": "info@hotelsallandseheuvelrug.nl"
+  },
+  {
+    "code": "F54",
+    "hotel": "Hotel-Restaurant De Cooghen",
+    "postCode": "1796BB",
+    "straat": "Dorpstraat 10",
+    "regio": "De Koog",
+    "provinsie": "provinsie",
+    "nummer": "0222-367020",
+    "email": "info@hotelcooghen.nl"
+  },
+  {
+    "code": "F55",
+    "hotel": "Hotel Gilde",
+    "postCode": "7411LG",
+    "straat": "Nieuwstraat 41",
+    "regio": "Deventer",
+    "provinsie": "Overijssel",
+    "nummer": "0570-641846",
+    "email": "info@hotelgilde.nl"
+  },
+  {
+    "code": "F57",
+    "hotel": "Hotel-Restaurant Stadspark",
+    "postCode": "4615MA",
+    "straat": "Gertrudisboulevard 200",
+    "regio": "Bergen op Zoom",
+    "provinsie": "Noord-Brabant",
+    "nummer": "0164-260202",
+    "email": "info@fletcherstadsparkhotel.nl"
+  },
+  {
+    "code": "F58",
+    "hotel": "Hotel-Restaurant Steenwijk",
+    "postCode": "8332 JE",
+    "straat": "Woldmeentherand 15",
+    "regio": "Steenwijk",
+    "provinsie": "Overijssel",
+    "nummer": "0521-512311",
+    "email": "info@fletcherhotelsteenwijk.nl"
+  },
+  {
+    "code": "F59",
+    "hotel": "Landhotel De Borken",
+    "postCode": "7991 PJ",
+    "straat": "Lhee 76",
+    "regio": "Dwingeloo",
+    "provinsie": "Drenthe",
+    "nummer": "0521-597200",
+    "email": "info@hoteldeborken.nl"
+  },
+  {
+    "code": "F60",
+    "hotel": "Hotel-Resort Spaarnwoude",
+    "postCode": "1981 LR",
+    "straat": "Oostbroekerweg 17",
+    "regio": "Velsen-Zuid",
+    "provinsie": "provinsie",
+    "nummer": "023-5370548",
+    "email": "info@hotelresortspaarnwoude.nl"
+  },
+  {
+    "code": "F61",
+    "hotel": "Hotel-Restaurant Nieuwvliet Bad",
+    "postCode": "4504 RX",
+    "straat": "Zouterik 2",
+    "regio": "Nieuwvliet-Bad",
+    "provinsie": "Zeeland",
+    "nummer": "0117-372020",
+    "email": "info@hotelnieuwvlietbad.nl"
+  },
+  {
+    "code": "F62",
+    "hotel": "Hotel-Restaurant Duinzicht",
+    "postCode": "3253 LL",
+    "straat": "Oud Nieuwlandseweg 13",
+    "regio": "Ouddorp",
+    "provinsie": "Zuid-Holland",
+    "nummer": "0187-680000",
+    "email": "info@fletcherhotelduinzicht.nl"
+  },
+  {
+    "code": "F63",
+    "hotel": "Hotel-Restaurant Het Witte Huis",
+    "postCode": "3768HN",
+    "straat": "Birkstraat 138",
+    "regio": "Soest",
+    "provinsie": "Utrecht",
+    "nummer": "033-4328255",
+    "email": "info@fletcherhotelhetwittehuis.nl"
+  },
+  {
+    "code": "F64",
+    "hotel": "Hotel-Restaurant Elzenduin",
+    "postCode": "2684 VT",
+    "straat": "Strandweg 18",
+    "regio": "Ter Heijde",
+    "provinsie": "Zuid-Holland",
+    "nummer": "0174-214200",
+    "email": "info@hotelelzenduin.nl"
+  },
+  {
+    "code": "F70",
+    "hotel": "Fletcher Hotel Amsterdam",
+    "postCode": "1105AT",
+    "straat": "Schepenbergweg 50",
+    "regio": "Amsterdam",
+    "provinsie": "provinsie",
+    "nummer": "020-3113670",
+    "email": "info@fletcherhotelamsterdam.nl"
+  },
+  {
+    "code": "F71",
+    "hotel": "Landgoedhotel Renesse",
+    "postCode": "4325 BC",
+    "straat": "Stoofwekken 5",
+    "regio": "Renesse",
+    "provinsie": "Zeeland",
+    "nummer": "0111-461788",
+    "email": "info@fletcherlandgoedhotelrenesse.nl"
+  },
+  {
+    "code": "F72",
+    "hotel": "Hotel-Restaurant Apeldoorn",
+    "postCode": "7313EH",
+    "straat": "Soerenseweg 73",
+    "regio": "Apeldoorn",
+    "provinsie": "Gelderland",
+    "nummer": "055-3554555",
+    "email": "info@hotelapeldoorn.nl"
+  },
+  {
+    "code": "F73",
+    "hotel": "Hotel-Restaurant 's-Hertogenbosch",
+    "postCode": "5245NH",
+    "straat": "Burg Burgerslaan 50",
+    "regio": "s-Hertogenbosch-Rosmalen",
+    "provinsie": "Noord-Brabant",
+    "nummer": "073-5219159",
+    "email": "info@fletcherhotelshertogenbosch"
+  },
+  {
+    "code": "F74",
+    "hotel": "Hotel-Restaurant Trivium",
+    "postCode": "4873LP",
+    "straat": "Trivium 72",
+    "regio": "Etten-Leur",
+    "provinsie": "Noord-Brabant",
+    "nummer": "076-5010041",
+    "email": "info@fletcherhoteltrivium.nl"
+  },
+  {
+    "code": "F76",
+    "hotel": "Parkhotel Val Monte",
+    "postCode": "6572AA",
+    "straat": "Oude Holleweg 5",
+    "regio": "Berg en Dal",
+    "provinsie": "Gelderland",
+    "nummer": "024-6842000",
+    "email": "info@parkhotelvalmonte.nl"
+  },
+  {
+    "code": "F77",
+    "hotel": "Hotel-Restaurant Jan van Scorel",
+    "postCode": "1871ED",
+    "straat": "Heereweg 89",
+    "regio": "Schoorl",
+    "provinsie": "provinsie",
+    "nummer": "0725-094444",
+    "email": "info@fletcherhoteljanvanscorel.nl"
+  },
+  {
+    "code": "F78",
+    "hotel": "Hotel-Restaurant Nieuwegein-Utrecht",
+    "postCode": "3435SB",
+    "straat": "Buizerdlaan 10",
+    "regio": "Nieuwegein",
+    "provinsie": "Utrecht",
+    "nummer": "030-6044844",
+    "email": "info@fletcherhotelnieuwegein.nl"
+  },
+  {
+    "code": "F79",
+    "hotel": "Hotel-Restaurant Doorwerth-Arnhem",
+    "postCode": "6865BL",
+    "straat": "Kabeljauwallee 35",
+    "regio": "Doorwerth",
+    "provinsie": "Gelderland",
+    "nummer": "0317–319010",
+    "email": "info@hoteldoorwerth.nl"
+  },
+  {
+    "code": "F80",
+    "hotel": "Hotel-Restaurant de Eese",
+    "postCode": "8346KH",
+    "straat": "Duivenslaagte 2",
+    "regio": "de Bult",
+    "provinsie": "Overijssel",
+    "nummer": "0521-511454",
+    "email": "info@hoteldeeese.nl"
+  },
+  {
+    "code": "F82",
+    "hotel": "Hotel-Restaurant Leidschendam-Den Haag",
+    "postCode": "2262AB",
+    "straat": "Weigelia 22",
+    "regio": "Leidschendam",
+    "provinsie": "Zuid-Holland",
+    "nummer": "070-3209280",
+    "email": "info@fletcherhoteldenhaag.nl"
+  },
+  {
+    "code": "F83",
+    "hotel": "Hotel-Restaurant de Wageningsche Berg",
+    "postCode": "6703DS",
+    "straat": "Generaal Foulkesweg 96",
+    "regio": "Wageningen",
+    "provinsie": "Gelderland",
+    "nummer": "0317-495911",
+    "email": "info@hotelwageningscheberg.nl"
+  },
+  {
+    "code": "F84",
+    "hotel": "Hotel-Restaurant Frerikshof",
+    "postCode": "7103CA",
+    "straat": "Frerikshof 2",
+    "regio": "Winterswijk",
+    "provinsie": "Gelderland",
+    "nummer": "0543-517755",
+    "email": "info@hotelfrerikshof.nl"
+  },
+  {
+    "code": "F85",
+    "hotel": "Landgoed Hotel Avegoor",
+    "postCode": "6955AG",
+    "straat": "Zutphensestraatweg 2",
+    "regio": "Ellecom",
+    "provinsie": "Gelderland",
+    "nummer": "0313-430600",
+    "email": "info@landgoedavegoor.nl"
+  }
+]
